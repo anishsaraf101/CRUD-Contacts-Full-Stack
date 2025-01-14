@@ -14,3 +14,6 @@ This is a full-stack web application designed to manage contacts through basic C
 	•	Frontend: JavaScript (Vanilla) - For handling the user interface and API requests
 	•	Database: (Add if using a database like SQLite, MySQL, etc.)
 	•	API: JSON - Data is exchanged between the frontend and backend in JSON format
+
+
+Note: This is my first full-stack project, and I’ve learned a lot about backend API development, frontend interaction, and full-stack integration.
