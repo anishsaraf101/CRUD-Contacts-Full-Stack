@@ -1,3 +1,16 @@
 # CRUD-Contacts-Full-Stack
 
-This full stack app is able to create, read, delete, and update contacts. It has a basic user interface that allows the user to manage the contact list. The application uses Flask to build an API to send and recieve JSON information to the front-end JavaScript. This is my first introduction to full stack software development!
+This is a full-stack web application designed to manage contacts through basic CRUD (Create, Read, Update, Delete) operations. The app allows users to efficiently manage a contact list with a simple, intuitive interface.
+
+### Features
+	•	Create: Add new contacts to your list with essential information.
+	•	Read: View the list of existing contacts.
+	•	Update: Edit contact details as needed.
+	•	Delete: Remove contacts from the list.
+
+
+### Technologies Used
+	•	Backend: Flask (Python) - A lightweight framework to build the RESTful API
+	•	Frontend: JavaScript (Vanilla) - For handling the user interface and API requests
+	•	Database: (Add if using a database like SQLite, MySQL, etc.)
+	•	API: JSON - Data is exchanged between the frontend and backend in JSON format
