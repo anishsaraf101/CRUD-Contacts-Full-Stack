@@ -1,0 +1,5 @@
+Following must be installed:
+
+Flask
+Flask-SQLAlchemy
+flask-cors
