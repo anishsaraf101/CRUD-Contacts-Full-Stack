@@ -16,4 +16,5 @@ This is a full-stack web application designed to manage contacts through basic C
 	•	API: JSON - Data is exchanged between the frontend and backend in JSON format
 
 
-Note: This is my first full-stack project, and I’ve learned a lot about backend API development, frontend interaction, and full-stack integration.
+##### Note: 
+This is my first full-stack project, and I’ve learned a lot about backend API development, frontend interaction, and full-stack integration.
